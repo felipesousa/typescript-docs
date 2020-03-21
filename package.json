@@ -9,5 +9,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typedoc": "^0.17.1"
+  },
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
 }
